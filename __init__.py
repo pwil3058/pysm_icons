@@ -18,3 +18,5 @@
 
 __all__ = []
 __author__ = "Peter Williams <pwil3058@gmail.com>"
+
+from .wsm_icons import *
