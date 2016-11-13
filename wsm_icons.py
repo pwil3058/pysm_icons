@@ -17,7 +17,7 @@
 
 from gi.repository import Gtk
 
-from .gtx import icons
+from ..gtx import icons
 
 _PREFIX = icons.APP_NAME + "_"
 
